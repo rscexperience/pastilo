@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rscexperience.github.io/pastilo/sitemap.xml
