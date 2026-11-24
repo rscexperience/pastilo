@@ -1,1 +1,1 @@
-(()=>{const t="pastilo.brandIntro.seen.v2";try{if(sessionStorage.getItem(t))return;sessionStorage.setItem(t,"1")}catch{return}document.documentElement.classList.add("show-brand-intro")})();
+"use strict";(()=>{const t="pastilo.brandIntro.seen.v2";try{if(sessionStorage.getItem(t))return;sessionStorage.setItem(t,"1")}catch{return}document.documentElement.classList.add("show-brand-intro")})();
