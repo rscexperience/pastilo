@@ -1,0 +1,2 @@
+Country flag bitmaps from Flagpedia, https://flagpedia.net/download/icons.
+Public domain. The images are bundled locally.
